@@ -2,6 +2,8 @@
 	#include <stdlib.h>
 	#include <locale.h>
 
+//mudança foda no código
+
 int some(int* num, int tam){
 	int total = 0;
 
