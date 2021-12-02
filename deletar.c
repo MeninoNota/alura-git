@@ -2,7 +2,7 @@
 	#include <stdlib.h>
 	#include <locale.h>
 
-//mudança foda no código aaaaa 
+//trocando comentário
 
 int some(int* num, int tam){
 	int total = 0;
